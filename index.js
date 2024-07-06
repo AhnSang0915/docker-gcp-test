@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
   res.send('🐳 Dream Coding in Docker! 🐳');
 });
 
-app.listen(8080, () => console.log('Server is running 🤖'));
+app.listen(8080, () => console.log('Server is running 🤖 GCP TEST! 🤖'));
